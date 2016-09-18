@@ -1,0 +1,11 @@
+.flipTheLogo {
+	animation-name: example;
+	animation-duration: 2s;
+}
+
+/*The Animation code*/
+@keyframes example {
+	0%{transform: rotateY(0deg);}
+	30%{transform: rotateY(180deg)}
+	100%{transform: rotateY(360deg);}
+}

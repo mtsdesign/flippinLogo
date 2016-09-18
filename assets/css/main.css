@@ -1,0 +1,89 @@
+@import url("/assets/css/reset.css");
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+@import 'https://fonts.googleapis.com/css?family=Roboto+Slab';
+
+#pagediv {
+	width: 910px;
+	margin: auto;
+}
+/*set up fonts*/
+h1, h2, h3, h5 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h4, h6, p, li {
+	font-family: 'Roboto+Slab', sans-serif;
+}
+
+h1 {
+	font-size: 2.5em;
+	padding: 20px;
+	margin: 5px;
+    }
+
+h2 {
+	font-size: 1.8em;
+	text-align: center;
+	padding: 10px;
+	line-height: 1.8em;
+}
+
+h3 {
+	font-size:1.4em;
+	padding: 12px;
+
+}
+
+h4 {
+	font-size: 1.4em;
+	text-align: center;
+	padding: 4%;
+	text-decoration: underline;
+
+}
+
+h5 {
+	font-size: 1.4em;
+	text-align: center;
+	padding: 10px;
+	line-height: 1.2em;
+}
+
+p {
+	font-size: 1em;
+}
+
+
+ul {
+	padding: 4%;
+	list-style: circle;
+}
+li {
+	padding: 2px;
+	line-height: 1.5em;
+}
+
+#title{
+	text-align: center;
+
+}
+
+
+
+.centeredImage {
+	display: block;
+	margin: auto;
+}
+
+
+section {
+	padding: 10px;
+}
+
+#withBorder {
+	border: 1px dashed black;
+}
+
+footer {
+	height:150px;
+}

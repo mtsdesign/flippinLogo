@@ -1,4 +1,5 @@
 #How to use flippinLogo
+### Visit https://mtsdesign.github.io/flippinLogo/ for an example
 
 ##What does it do?
 flippinlogo is a small piece of js and css which adds and animation to a HTML element on mouseover. It was designed to add an enjoyable tweak to clients logos.

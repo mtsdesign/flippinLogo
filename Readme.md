@@ -9,5 +9,5 @@ The flippinLogoJS  is designed to flip an <img> element however it could be used
 The <img> to be flipped should be given the class of .flippinLogo
 
 ###Customisation
--Edit flippinLogo.js to change the event on which the flip is fired: you could use click or onload for example.
--Edit flippinLogo.css to change the animation.
++Edit flippinLogo.js to change the event on which the flip is fired: you could use click or onload for example.
++Edit flippinLogo.css to change the animation.
